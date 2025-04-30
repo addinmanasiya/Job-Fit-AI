@@ -35,7 +35,7 @@ A machine learning web app that automatically **classifies resumes** into profes
 
 ---
 
-## 📦 Installation
+## 📦 Installation and execution of the code
 
 ### 🔗 Option 1: Run in Google Colab
 
